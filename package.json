@@ -1,0 +1,22 @@
+{
+  "name": "karatube-landing",
+  "version": "1.0.0",
+  "description": "A beautiful landing page for downloading APK files.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'"
+  },
+  "keywords": [
+    "landing",
+    "apk",
+    "download",
+    "responsive"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
