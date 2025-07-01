@@ -324,3 +324,9 @@ body {
 .footer-logo i {
     color: #4ecdc4;
 }
+.center-card {
+    grid-column: 1 / -1;      
+    max-width: 500px;         
+    margin-left: auto;
+    margin-right: auto;
+}
